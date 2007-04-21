@@ -10,7 +10,7 @@ Release: %{release}
 URL: http://ruby.jamisbuck.org/
 Source0: %{rname}-%{version}.tar.bz2
 License: GPL
-Group: Development/Other
+Group: Development/Ruby
 BuildRoot: %{_tmppath}/%{name}-buildroot
 Requires: ruby >= 1.8
 BuildRequires: ruby-devel
