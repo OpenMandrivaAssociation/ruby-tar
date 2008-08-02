@@ -1,7 +1,7 @@
 %define rname tar
 %define name ruby-%{rname}
 %define version 0.1
-%define release %mkrel 6
+%define release %mkrel 7
 
 Summary: Ruby implementation of the Unix 'tar' format
 Name: %{name}
