@@ -7,7 +7,7 @@ Summary: Ruby implementation of the Unix 'tar' format
 Name: %{name}
 Version: %{version}
 Release: %{release}
-URL: http://ruby.jamisbuck.org/
+URL: https://ruby.jamisbuck.org/
 Source0: %{rname}-%{version}.tar.bz2
 License: GPL
 Group: Development/Ruby
